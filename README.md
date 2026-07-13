@@ -1,5 +1,7 @@
 # doc-intelligence
 
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/akshay-birla-03/doc-intelligence/blob/main/notebooks/Run_in_Colab.ipynb)
+
 An offline NLP toolkit for **intelligent document processing**. It parses
 semi-structured business documents (invoices, resumes, contracts) into
 structured data: it segments a document into logical sections, classifies each
